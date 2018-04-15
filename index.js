@@ -14,13 +14,8 @@ function logWhisper() {
   console.log("hello")
 }
 
-var test1 = "TESTING"
-
-if 
-
-/*
 function sayHiToGrandma(string) {
-  if string.toUpperCase() === string {
+  if (string.toUpperCase() === string) {
     console.log("I can't hear you!")
   }
 }
