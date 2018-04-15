@@ -14,7 +14,7 @@ function logWhisper() {
   console.log("hello")
 }
 
-var test1 = 
+var test1 = "TESTING"
 
 /*
 function sayHiToGrandma(string) {
